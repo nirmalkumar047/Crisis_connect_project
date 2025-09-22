@@ -21,8 +21,7 @@ Crisis-Connect is an intelligent disaster coordination system that ensures help 
 - **Mobile apps** for both victims and volunteers
 - **Resource mapping** and optimized distribution routes
 
-## 🏆 Achievement
-**2nd Place Winner** at [Hackathon Name] - Team: Ctrl + Alt + Defeat
+
 
 ## 🚀 Features
 
