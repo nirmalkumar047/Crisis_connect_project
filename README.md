@@ -32,6 +32,9 @@ Crisis-Connect operates through a coordinated three-tier architecture that seaml
 Emergency Smart Priority Real-time Live Monitoring
 Request Assignment Navigation & Analytics
 
+complete execution video: 
+[Click here](https://drive.google.com/drive/folders/14mEIXlInv7vwzg34XnEr_pFaQjQT3lb0)
+
 
 ### 📋 Execution Workflow
 
